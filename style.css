@@ -1,0 +1,24 @@
+body {
+  background-color: black;
+}
+
+div {
+  margin-top: 35px;
+  text-align: center;
+  color: aliceblue;
+  font-family: Cubano;
+}
+
+p {
+  font-size: 15em;
+}
+
+button {
+  width: 50%;
+  height: 500px;
+  font-size: 18em;
+  font-family: Cubano;
+  color: aliceblue;
+  background-color: #555;
+  border-width: 5px;
+}
